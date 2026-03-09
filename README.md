@@ -10,5 +10,4 @@
 ## 📜 Course Certifications
 - The Complete Cyber Security Course (Udemy)
 - Ethical Hacking with Metasploit (Udemy)
-- Legacy Responsive Web Design (freeCodeCamp)
-```
+- Legacy Responsive Web Design (freeCodeCamp) 
