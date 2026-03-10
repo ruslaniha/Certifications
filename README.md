@@ -12,5 +12,5 @@
 - Ethical Hacking with Metasploit (Udemy)
 - Legacy Responsive Web Design (freeCodeCamp)
   
-- ## 🛠️ Currently Pursuing
+ ## 🛠️ Currently Pursuing
 - 🔄 Div Academy — AI Training *(in progress)*
